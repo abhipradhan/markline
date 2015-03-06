@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.0",
+    "gulp-cssmin": "~0.1.6",
+    "gulp-uglifyjs":  "~0.6.0",
+    "commonmark": "~0.18.1",
+    "gulp-smoosher": "~0.0.7"
+  },
+  "private": true
+}
