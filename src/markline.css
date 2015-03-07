@@ -43,6 +43,14 @@ li{
   line-height: 1.5;
 }
 
+textarea{
+  height: 300px;
+}
+
+button{
+  
+}
+
 footer{
   font-size: 10px;
   text-align: center;
