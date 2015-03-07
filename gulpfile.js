@@ -3,8 +3,7 @@
 var gulp = require("gulp"),
   cssmin = require("gulp-cssmin"),
   uglify = require("gulp-uglifyjs"),
-  smoosher = require("gulp-smoosher"),
-  inline = require("gulp-inline-source");
+  smoosher = require("gulp-smoosher");
 
 gulp.task('styles', function () {
   return gulp.src('./src/markline.css')
